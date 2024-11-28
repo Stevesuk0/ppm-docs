@@ -1,5 +1,10 @@
 # Getting Started
 
+::: info
+We are in the process of refactoring the Plusto Package Manager and many features are missing from the new version.
+If you find any problems with this release, please send [feedback](https://github.com/Stevesuk0/ppm/issues).
+:::
+
 ## System Requirements
 
 - A Linux distribution that supports the `dpkg` format.
