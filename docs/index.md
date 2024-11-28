@@ -2,10 +2,10 @@
 layout: home
 
 hero:
-  name: "PlustoPM"
-  text: "Best "
-  textsuffix: "choice of ng package managers"
-  tagline: "🎉 lightweight, customizable and easy-to-use"
+  name: "Plusto Package Manager"
+  text: "lightweight, extensible, easy-to-use, and mixable"
+  tagline: "Next-generation package management solution"
+
   actions:
     - theme: brand
       text: Quick Start
